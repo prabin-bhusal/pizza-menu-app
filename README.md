@@ -2,6 +2,8 @@
 
 This project is a simple web application focused on displaying a pizza menu. It serves as a learning ground for understanding React components, JSX syntax, and handling props in React.
 
+Live Link: https://pizza-menu-app-wheat.vercel.app/
+
 ## Description
 
 The goal of this project is to create a user-friendly interface that showcases a variety of pizza options using React. It emphasizes the implementation of components to represent different parts of the UI and utilizes props to pass data between these components.
