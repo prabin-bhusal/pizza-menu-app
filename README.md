@@ -20,6 +20,8 @@ The goal of this project is to create a user-friendly interface that showcases a
 - **JSX:** JavaScript syntax extension used to write React components.
 - **Other relevant technologies used in the project can be listed here.**
 
+![Pizza Menu](https://github.com/prabin-bhusal/pizza-menu-app/blob/main/pizza-menu.png)
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
